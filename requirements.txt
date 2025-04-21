@@ -1,0 +1,5 @@
+streamlit
+cohere
+faiss-cpu
+python-dotenv
+numpy
